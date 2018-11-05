@@ -16,7 +16,7 @@ module.exports = function(grunt) {
     sass: {
       base: {
         files: {
-          'dist/mfb.css': 'src/mfb.scss'
+          'dist/mfb.css': 'src/kzo.scss'
         }
       }
     },
